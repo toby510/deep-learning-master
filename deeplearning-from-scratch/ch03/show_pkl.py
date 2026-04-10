@@ -1,3 +1,6 @@
+#此文件自己写的，用来显示sample_weight.pkl文件的参数内容
+
+
 # show_pkl.py
 import pickle
 
