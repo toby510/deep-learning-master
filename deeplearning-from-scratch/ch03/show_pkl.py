@@ -1,6 +1,5 @@
 #此文件自己写的，用来显示sample_weight.pkl文件的参数内容
 
-
 # show_pkl.py
 import pickle
 
@@ -20,5 +19,3 @@ for key, val in params.items():
 #想看具体数值可以打印
 print("\nW1 前5行：")
 print(params['W1'][:5])
-
-#
